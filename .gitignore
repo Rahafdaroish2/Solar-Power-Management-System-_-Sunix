@@ -15,3 +15,5 @@ ios/
 *.mobileprovision
 .DS_Store
 .tmp/
+
+src/assets/videos/sunix-assistant.mp4
